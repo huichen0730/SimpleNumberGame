@@ -1,0 +1,98 @@
+1.Player's Name: hui1
+The first number is: 6
+The second number is: 10
+The third number is: 6
+
+The sum the player got: 22
+
+The current amount of money the player has after the bet is: œ90
+
+2.Player's Name: hui2
+The first number is: 6
+The second number is: 7
+The third number is: 10
+
+The sum the player got: 23
+
+The current amount of money the player has after the bet is: œ140
+
+3.Player's Name: hui3
+The first number is: 6
+The second number is: 4
+The third number is: 7
+
+The sum the player got: 17
+
+The current amount of money the player has after the bet is: œ70
+
+4.Player's Name: hui4
+The first number is: 9
+The second number is: 2
+The third number is: 7
+
+The sum the player got: 18
+
+The current amount of money the player has after the bet is: œ60
+
+5.Player's Name: hui5
+The first number is: 5
+The second number is: 6
+The third number is: 4
+
+The sum the player got: 15
+
+The current amount of money the player has after the bet is: œ50
+
+The finnal winner of the game was: hui2 
+[ This is the last line of record for one game. ]
+
+
+1.Player's Name: Hui1
+The first number is: 1
+The second number is: 1
+The third number is: 3
+
+The sum the player got: 5
+
+The current amount of money the player has after the bet is: œ90
+
+2.Player's Name: Hui2
+The first number is: 10
+The second number is: 7
+The third number is: 2
+
+The sum the player got: 19
+
+The current amount of money the player has after the bet is: œ140
+
+3.Player's Name: Hui3
+The first number is: 9
+The second number is: 6
+The third number is: 4
+
+The sum the player got: 19
+
+The current amount of money the player has after the bet is: œ160
+
+4.Player's Name: Hui4
+The first number is: 9
+The second number is: 1
+The third number is: 7
+
+The sum the player got: 17
+
+The current amount of money the player has after the bet is: œ60
+
+5.Player's Name: Hui5
+The first number is: 2
+The second number is: 6
+The third number is: 8
+
+The sum the player got: 16
+
+The current amount of money the player has after the bet is: œ50
+
+The finnal winner of the game was: Hui2 Hui3 
+[ This is the last line of record for one game. ]
+
+
